@@ -1,0 +1,8 @@
+--- DETAYLI CALISAN ANALIZ VE ZAM RAPORU ---
+==================================================
+
+Isim: Ahmet Yilmaz    | Dept: IT         | Perf: 85  | Eski Maas: 35000   | Zam Orani: %20 | Yeni Maas: 42000
+Isim: Ayse Demir      | Dept: Sales      | Perf: 90  | Eski Maas: 30000   | Zam Orani: %20 | Yeni Maas: 36000
+Isim: Mehmet Kaya     | Dept: IT         | Perf: 65  | Eski Maas: 40000   | Zam Orani: %10 | Yeni Maas: 44000
+Isim: Zeynep Celik    | Dept: HR         | Perf: 75  | Eski Maas: 28000   | Zam Orani: %15 | Yeni Maas: 32200
+Isim: Canan Korkmaz   | Dept: Marketing  | Perf: 80  | Eski Maas: 32000   | Zam Orani: %15 | Yeni Maas: 36800
